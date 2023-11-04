@@ -1,2 +1,4 @@
 # git-test
-testing git functionalities 
+testing git functionalities
+
+Hello The Odin Project!
